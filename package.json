@@ -1,0 +1,24 @@
+{
+  "name": "bcdv1025_lab7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrywu96/BCDV1025_Lab7.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Henrywu96/BCDV1025_Lab7/issues"
+  },
+  "homepage": "https://github.com/Henrywu96/BCDV1025_Lab7#readme",
+  "dependencies": {
+    "fabric-ca-client": "^2.2.16",
+    "fabric-network": "^2.2.16"
+  }
+}
